@@ -1,0 +1,7 @@
+# never commit an instance's data
+.env
+config/
+zones/
+cache/
+*.key
+routers.list
